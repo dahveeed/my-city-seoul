@@ -15,6 +15,12 @@
     font-size: 50px;
 }
 
+.david-bak {
+    -webkit-text-stroke: 1.5px #000;
+    color: #fff;
+    text-decoration: none;
+}
+
 .prevent-select {
     user-select: none;
 }
